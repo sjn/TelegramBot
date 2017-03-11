@@ -27,3 +27,5 @@ test2.pl6
 .vscode
 .precomp
 my_docs
+*.swp
+*~
